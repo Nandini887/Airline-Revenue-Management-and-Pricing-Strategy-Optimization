@@ -1,0 +1,2 @@
+# Airline-Revenue-Management-and-Pricing-Strategy-Optimization
+Applied dynamic programming and demand forecasting to optimize airline ticket pricing strategy across a 365-day horizon, modeling customer demand distributions for 5 price points, conducting sensitivity analysis on sales probabilities, and identifying the overbooking policy that maximized expected discounted profit through Monte Carlo simulation.
